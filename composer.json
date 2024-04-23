@@ -1,0 +1,19 @@
+{
+    "name": "saciid/crud_project_v.2",
+    "description": "A simple CRUD project",
+    "type": "library",
+    "license": "MIT License",
+    "autoload": {
+        "psr-4": {
+            "Saciid\\CrudProjectV2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "saidAbdirahman",
+            "email": "saidqaaje11@gmail.com"
+        }
+    ],
+    "require": {}
+}
+
